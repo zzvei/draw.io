@@ -1,0 +1,19 @@
+{
+  "name": "draw.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzvei/draw.io.git"
+  },
+  "author": "zzvei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzvei/draw.io/issues"
+  },
+  "homepage": "https://github.com/zzvei/draw.io#readme"
+}
